@@ -21,3 +21,8 @@ move mouse to right side of screen to turn right/
 [left mouse click] - click computer button/
 Z - toggle computer on or off/
 X - toggle cooling fan on or off/
+
+# Testing
+download the .jar file in the project releases tab to play the game
+
+Good luck and Have fun!
